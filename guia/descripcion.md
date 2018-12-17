@@ -1,6 +1,6 @@
 # Descripción general del proyecto
 
-Explicar.
+Va de una farmacia.
 
 ## Funcionalidad principal de la aplicación
 
