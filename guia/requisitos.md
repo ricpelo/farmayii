@@ -8,6 +8,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [1](https://github.com/ricpelo/farmayii/issues/1) |
 
 | **R02**     | **Código fuente**         |
 | --------------: | :------------------- |
@@ -16,6 +17,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [2](https://github.com/ricpelo/farmayii/issues/2) |
 
 | **R03**     | **Estilo del código**         |
 | --------------: | :------------------- |
@@ -24,6 +26,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [3](https://github.com/ricpelo/farmayii/issues/3) |
 
 | **R04**     | **Tres lanzamientos**         |
 | --------------: | :------------------- |
@@ -32,6 +35,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [4](https://github.com/ricpelo/farmayii/issues/4) |
 
 | **R05**     | **README.md**         |
 | --------------: | :------------------- |
@@ -40,6 +44,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [5](https://github.com/ricpelo/farmayii/issues/5) |
 
 | **R06**     | **Documentación**         |
 | --------------: | :------------------- |
@@ -48,6 +53,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [6](https://github.com/ricpelo/farmayii/issues/6) |
 
 | **R07**     | **Incidencias en GitHub**         |
 | --------------: | :------------------- |
@@ -56,6 +62,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [7](https://github.com/ricpelo/farmayii/issues/7) |
 
 | **R08**     | **Etiquetas e hitos**         |
 | --------------: | :------------------- |
@@ -64,6 +71,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [8](https://github.com/ricpelo/farmayii/issues/8) |
 
 | **R09**     | **Rama master**         |
 | --------------: | :------------------- |
@@ -72,6 +80,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [9](https://github.com/ricpelo/farmayii/issues/9) |
 
 | **R10**     | **Gestión del proyecto**         |
 | --------------: | :------------------- |
@@ -80,6 +89,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [10](https://github.com/ricpelo/farmayii/issues/10) |
 
 | **R11**     | **Final de cada iteración**         |
 | --------------: | :------------------- |
@@ -88,6 +98,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [11](https://github.com/ricpelo/farmayii/issues/11) |
 
 | **R12**     | **Validación de formularios**         |
 | --------------: | :------------------- |
@@ -96,6 +107,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [12](https://github.com/ricpelo/farmayii/issues/12) |
 
 | **R13**     | **Gestión de ventanas**         |
 | --------------: | :------------------- |
@@ -104,6 +116,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [13](https://github.com/ricpelo/farmayii/issues/13) |
 
 | **R14**     | **Manejo de eventos**         |
 | --------------: | :------------------- |
@@ -112,6 +125,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [14](https://github.com/ricpelo/farmayii/issues/14) |
 
 | **R15**     | **DOM**         |
 | --------------: | :------------------- |
@@ -120,6 +134,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [15](https://github.com/ricpelo/farmayii/issues/15) |
 
 | **R16**     | **Almacenamiento en el lado del cliente**         |
 | --------------: | :------------------- |
@@ -128,6 +143,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [16](https://github.com/ricpelo/farmayii/issues/16) |
 
 | **R17**     | **jQuery, jQuery UI**         |
 | --------------: | :------------------- |
@@ -136,6 +152,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [17](https://github.com/ricpelo/farmayii/issues/17) |
 
 | **R18**     | **Plugin no trabajado en clase**         |
 | --------------: | :------------------- |
@@ -144,6 +161,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [18](https://github.com/ricpelo/farmayii/issues/18) |
 
 | **R19**     | **Utilización de AJAX**         |
 | --------------: | :------------------- |
@@ -152,6 +170,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [19](https://github.com/ricpelo/farmayii/issues/19) |
 
 | **R20**     | **ECMAScript2015 (ES6)**         |
 | --------------: | :------------------- |
@@ -160,6 +179,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [20](https://github.com/ricpelo/farmayii/issues/20) |
 
 | **R21**     | **PHP**         |
 | --------------: | :------------------- |
@@ -168,6 +188,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [21](https://github.com/ricpelo/farmayii/issues/21) |
 
 | **R22**     | **Yii2 Framework**         |
 | --------------: | :------------------- |
@@ -176,6 +197,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [22](https://github.com/ricpelo/farmayii/issues/22) |
 
 | **R23**     | **PostgreSQL**         |
 | --------------: | :------------------- |
@@ -184,6 +206,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [23](https://github.com/ricpelo/farmayii/issues/23) |
 
 | **R24**     | **Heroku**         |
 | --------------: | :------------------- |
@@ -192,6 +215,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [24](https://github.com/ricpelo/farmayii/issues/24) |
 
 | **R25**     | **Codeception**         |
 | --------------: | :------------------- |
@@ -200,6 +224,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [25](https://github.com/ricpelo/farmayii/issues/25) |
 
 | **R26**     | **Code Climate**         |
 | --------------: | :------------------- |
@@ -208,6 +233,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [26](https://github.com/ricpelo/farmayii/issues/26) |
 
 | **R27**     | **Aplicación escalable**         |
 | --------------: | :------------------- |
@@ -216,6 +242,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [27](https://github.com/ricpelo/farmayii/issues/27) |
 
 | **R28**     | **Tecnología AJAX**         |
 | --------------: | :------------------- |
@@ -224,6 +251,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [28](https://github.com/ricpelo/farmayii/issues/28) |
 
 | **R29**     | **Etiquetas semánticas de HTML5**         |
 | --------------: | :------------------- |
@@ -232,6 +260,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [29](https://github.com/ricpelo/farmayii/issues/29) |
 
 | **R30**     | **Presentación mediante CSS**         |
 | --------------: | :------------------- |
@@ -240,6 +269,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [30](https://github.com/ricpelo/farmayii/issues/30) |
 
 | **R31**     | **Diseño flexible**         |
 | --------------: | :------------------- |
@@ -248,6 +278,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [31](https://github.com/ricpelo/farmayii/issues/31) |
 
 | **R32**     | **Transiciones, transformaciones, animaciones y contenido multimedia**         |
 | --------------: | :------------------- |
@@ -256,6 +287,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [32](https://github.com/ricpelo/farmayii/issues/32) |
 
 | **R33**     | **Uso de microdatos**         |
 | --------------: | :------------------- |
@@ -264,6 +296,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [33](https://github.com/ricpelo/farmayii/issues/33) |
 
 | **R34**     | **Validación HTML5, CSS3 y accesibilidad**         |
 | --------------: | :------------------- |
@@ -272,6 +305,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [34](https://github.com/ricpelo/farmayii/issues/34) |
 
 | **R35**     | **Diseño para varias resoluciones**         |
 | --------------: | :------------------- |
@@ -280,6 +314,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [35](https://github.com/ricpelo/farmayii/issues/35) |
 
 | **R36**     | **Varios navegadores**         |
 | --------------: | :------------------- |
@@ -288,6 +323,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [36](https://github.com/ricpelo/farmayii/issues/36) |
 
 | **R37**     | **Despliegue en un Host**         |
 | --------------: | :------------------- |
@@ -296,6 +332,7 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [37](https://github.com/ricpelo/farmayii/issues/37) |
 
 | **R38**     | **Despliegue en un servidor local**         |
 | --------------: | :------------------- |
@@ -304,47 +341,48 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+| **Incidencia**  | [38](https://github.com/ricpelo/farmayii/issues/38) |
 
 
 ## Cuadro resumen
 
 | **Requisito** | **Prioridad** | **Tipo** | **Complejidad** | **Entrega** | **Incidencia** |
 | :------------ | :-----------: | :------: | :-------------: | :---------: | :------------: |
-| (**R01**) Requisitos como incidencias | Mínimo | Técnico | Fácil | v1 |
-| (**R02**) Código fuente | Mínimo | Técnico | Fácil | v1 |
-| (**R03**) Estilo del código | Mínimo | Técnico | Fácil | v1 |
-| (**R04**) Tres lanzamientos | Mínimo | Técnico | Fácil | v1 |
-| (**R05**) README.md | Mínimo | Técnico | Fácil | v1 |
-| (**R06**) Documentación | Mínimo | Técnico | Fácil | v1 |
-| (**R07**) Incidencias en GitHub | Mínimo | Técnico | Fácil | v1 |
-| (**R08**) Etiquetas e hitos | Mínimo | Técnico | Fácil | v1 |
-| (**R09**) Rama master | Mínimo | Técnico | Fácil | v1 |
-| (**R10**) Gestión del proyecto | Mínimo | Técnico | Fácil | v1 |
-| (**R11**) Final de cada iteración | Mínimo | Técnico | Fácil | v1 |
-| (**R12**) Validación de formularios | Mínimo | Técnico | Fácil | v1 |
-| (**R13**) Gestión de ventanas | Mínimo | Técnico | Fácil | v1 |
-| (**R14**) Manejo de eventos | Mínimo | Técnico | Fácil | v1 |
-| (**R15**) DOM | Mínimo | Técnico | Fácil | v1 |
-| (**R16**) Almacenamiento en el lado del cliente | Mínimo | Técnico | Fácil | v1 |
-| (**R17**) jQuery, jQuery UI | Mínimo | Técnico | Fácil | v1 |
-| (**R18**) Plugin no trabajado en clase | Mínimo | Técnico | Fácil | v1 |
-| (**R19**) Utilización de AJAX | Mínimo | Técnico | Fácil | v1 |
-| (**R20**) ECMAScript2015 (ES6) | Mínimo | Técnico | Fácil | v1 |
-| (**R21**) PHP | Mínimo | Técnico | Fácil | v1 |
-| (**R22**) Yii2 Framework | Mínimo | Técnico | Fácil | v1 |
-| (**R23**) PostgreSQL | Mínimo | Técnico | Fácil | v1 |
-| (**R24**) Heroku | Mínimo | Técnico | Fácil | v1 |
-| (**R25**) Codeception | Mínimo | Técnico | Fácil | v1 |
-| (**R26**) Code Climate | Mínimo | Técnico | Fácil | v1 |
-| (**R27**) Aplicación escalable | Mínimo | Técnico | Fácil | v1 |
-| (**R28**) Tecnología AJAX | Mínimo | Técnico | Fácil | v1 |
-| (**R29**) Etiquetas semánticas de HTML5 | Mínimo | Técnico | Fácil | v1 |
-| (**R30**) Presentación mediante CSS | Mínimo | Técnico | Fácil | v1 |
-| (**R31**) Diseño flexible | Mínimo | Técnico | Fácil | v1 |
-| (**R32**) Transiciones, transformaciones, animaciones y contenido multimedia | Mínimo | Técnico | Fácil | v1 |
-| (**R33**) Uso de microdatos | Mínimo | Técnico | Fácil | v1 |
-| (**R34**) Validación HTML5, CSS3 y accesibilidad | Mínimo | Técnico | Fácil | v1 |
-| (**R35**) Diseño para varias resoluciones | Mínimo | Técnico | Fácil | v1 |
-| (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 |
-| (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 |
-| (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 |
+| (**R01**) Requisitos como incidencias | Mínimo | Técnico | Fácil | v1 | [1](https://github.com/ricpelo/farmayii/issues/1) |
+| (**R02**) Código fuente | Mínimo | Técnico | Fácil | v1 | [2](https://github.com/ricpelo/farmayii/issues/2) |
+| (**R03**) Estilo del código | Mínimo | Técnico | Fácil | v1 | [3](https://github.com/ricpelo/farmayii/issues/3) |
+| (**R04**) Tres lanzamientos | Mínimo | Técnico | Fácil | v1 | [4](https://github.com/ricpelo/farmayii/issues/4) |
+| (**R05**) README.md | Mínimo | Técnico | Fácil | v1 | [5](https://github.com/ricpelo/farmayii/issues/5) |
+| (**R06**) Documentación | Mínimo | Técnico | Fácil | v1 | [6](https://github.com/ricpelo/farmayii/issues/6) |
+| (**R07**) Incidencias en GitHub | Mínimo | Técnico | Fácil | v1 | [7](https://github.com/ricpelo/farmayii/issues/7) |
+| (**R08**) Etiquetas e hitos | Mínimo | Técnico | Fácil | v1 | [8](https://github.com/ricpelo/farmayii/issues/8) |
+| (**R09**) Rama master | Mínimo | Técnico | Fácil | v1 | [9](https://github.com/ricpelo/farmayii/issues/9) |
+| (**R10**) Gestión del proyecto | Mínimo | Técnico | Fácil | v1 | [10](https://github.com/ricpelo/farmayii/issues/10) |
+| (**R11**) Final de cada iteración | Mínimo | Técnico | Fácil | v1 | [11](https://github.com/ricpelo/farmayii/issues/11) |
+| (**R12**) Validación de formularios | Mínimo | Técnico | Fácil | v1 | [12](https://github.com/ricpelo/farmayii/issues/12) |
+| (**R13**) Gestión de ventanas | Mínimo | Técnico | Fácil | v1 | [13](https://github.com/ricpelo/farmayii/issues/13) |
+| (**R14**) Manejo de eventos | Mínimo | Técnico | Fácil | v1 | [14](https://github.com/ricpelo/farmayii/issues/14) |
+| (**R15**) DOM | Mínimo | Técnico | Fácil | v1 | [15](https://github.com/ricpelo/farmayii/issues/15) |
+| (**R16**) Almacenamiento en el lado del cliente | Mínimo | Técnico | Fácil | v1 | [16](https://github.com/ricpelo/farmayii/issues/16) |
+| (**R17**) jQuery, jQuery UI | Mínimo | Técnico | Fácil | v1 | [17](https://github.com/ricpelo/farmayii/issues/17) |
+| (**R18**) Plugin no trabajado en clase | Mínimo | Técnico | Fácil | v1 | [18](https://github.com/ricpelo/farmayii/issues/18) |
+| (**R19**) Utilización de AJAX | Mínimo | Técnico | Fácil | v1 | [19](https://github.com/ricpelo/farmayii/issues/19) |
+| (**R20**) ECMAScript2015 (ES6) | Mínimo | Técnico | Fácil | v1 | [20](https://github.com/ricpelo/farmayii/issues/20) |
+| (**R21**) PHP | Mínimo | Técnico | Fácil | v1 | [21](https://github.com/ricpelo/farmayii/issues/21) |
+| (**R22**) Yii2 Framework | Mínimo | Técnico | Fácil | v1 | [22](https://github.com/ricpelo/farmayii/issues/22) |
+| (**R23**) PostgreSQL | Mínimo | Técnico | Fácil | v1 | [23](https://github.com/ricpelo/farmayii/issues/23) |
+| (**R24**) Heroku | Mínimo | Técnico | Fácil | v1 | [24](https://github.com/ricpelo/farmayii/issues/24) |
+| (**R25**) Codeception | Mínimo | Técnico | Fácil | v1 | [25](https://github.com/ricpelo/farmayii/issues/25) |
+| (**R26**) Code Climate | Mínimo | Técnico | Fácil | v1 | [26](https://github.com/ricpelo/farmayii/issues/26) |
+| (**R27**) Aplicación escalable | Mínimo | Técnico | Fácil | v1 | [27](https://github.com/ricpelo/farmayii/issues/27) |
+| (**R28**) Tecnología AJAX | Mínimo | Técnico | Fácil | v1 | [28](https://github.com/ricpelo/farmayii/issues/28) |
+| (**R29**) Etiquetas semánticas de HTML5 | Mínimo | Técnico | Fácil | v1 | [29](https://github.com/ricpelo/farmayii/issues/29) |
+| (**R30**) Presentación mediante CSS | Mínimo | Técnico | Fácil | v1 | [30](https://github.com/ricpelo/farmayii/issues/30) |
+| (**R31**) Diseño flexible | Mínimo | Técnico | Fácil | v1 | [31](https://github.com/ricpelo/farmayii/issues/31) |
+| (**R32**) Transiciones, transformaciones, animaciones y contenido multimedia | Mínimo | Técnico | Fácil | v1 | [32](https://github.com/ricpelo/farmayii/issues/32) |
+| (**R33**) Uso de microdatos | Mínimo | Técnico | Fácil | v1 | [33](https://github.com/ricpelo/farmayii/issues/33) |
+| (**R34**) Validación HTML5, CSS3 y accesibilidad | Mínimo | Técnico | Fácil | v1 | [34](https://github.com/ricpelo/farmayii/issues/34) |
+| (**R35**) Diseño para varias resoluciones | Mínimo | Técnico | Fácil | v1 | [35](https://github.com/ricpelo/farmayii/issues/35) |
+| (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | [36](https://github.com/ricpelo/farmayii/issues/36) |
+| (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | [37](https://github.com/ricpelo/farmayii/issues/37) |
+| (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | [38](https://github.com/ricpelo/farmayii/issues/38) |
